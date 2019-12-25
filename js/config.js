@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "NoobRP";
+var l_serverName = "NiceRP";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -129,8 +129,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!"
+	"Заходите на сервер",
+	"Спасибо за игру!"
 ];
 
 // Random message order?
